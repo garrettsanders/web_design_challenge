@@ -5,15 +5,16 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #e7e2b9;
+    background-color: red;
   }
 
- 
-h1 {
+  h1 {
     padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
-    color: rgb(10, 10, 10);
+    /*color: rgb(10, 10, 10);*/
+    color: black;
     text-align: center;
   }
+
