@@ -18,20 +18,7 @@ h1 {
     text-align: center;
   }
   
-  .navbar {
-    padding: 10px;
-    background: #3f0ef0;
-  }
 
-  .navbar li {
-    display: inline-block;
-    padding: 20px;
-    margin-right: 10px;
-    margin-left: 10px;
-    cursor: pointer;
-    background: rgb(255, 255, 255);
-    border-radius: 3px;
-  }
   
   #temperature,
   #cloudiness,
@@ -50,17 +37,8 @@ h1 {
     margin-right: 20px;
   }
   
-   @media (max-width: 600px) {
-       #temperature,
-       #cloudiness,
-       #humidity,
-       #windiness {
-           width: 150px;
-           height: 150px;
-           margin-right: 10px;
-       }
 
-       .navbar li {
-           padding: 10px;
-       }
-   } 
+
+       
+       
+   
