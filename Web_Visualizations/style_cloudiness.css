@@ -17,3 +17,11 @@ h1 {
     color: rgb(10, 10, 10);
     text-align: center;
   }
+
+  #cloudiness{
+    width: 600px;
+    height: 600px;
+    margin-right: 30px;
+  }
+  
+  
