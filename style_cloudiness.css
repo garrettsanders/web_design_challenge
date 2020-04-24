@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: goldenrod;
+  }
+
+ 
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(10, 10, 10);
+    text-align: center;
+  }
+
+  #cloudiness{
+    width: 600px;
+    height: 600px;
+    margin-right: 30px;
+    text-align: center;
+  }
+  
+  
